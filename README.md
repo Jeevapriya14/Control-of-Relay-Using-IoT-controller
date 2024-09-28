@@ -60,7 +60,10 @@ void loop() {
 
 ## CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/35693977-1386-441d-a3ab-c78c951d8cf7)
-
+#
+#
+#
+#
 ## OUTPUT:
 OFF
 ![image](https://github.com/user-attachments/assets/5dc96733-9ee9-4226-9825-2ddc36fa6b3f)
