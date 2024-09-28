@@ -59,8 +59,6 @@ void loop() {
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/5dc96733-9ee9-4226-9825-2ddc36fa6b3f)
-
-
 ![image](https://github.com/user-attachments/assets/4b99aa5c-6ff2-4377-b8d7-296e5a21560f)
 
 ## RESULT:
