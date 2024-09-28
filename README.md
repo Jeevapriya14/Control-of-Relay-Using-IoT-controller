@@ -56,7 +56,9 @@ void loop() {
 ```
 
 
-
+#
+#
+#
 
 ## CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/35693977-1386-441d-a3ab-c78c951d8cf7)
